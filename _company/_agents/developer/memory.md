@@ -9,3 +9,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-31] [A.U 히든 커맨드: 💻 코다리 에이전트가 방금 '강아지사주 (Korean Astrology AI Service)' 템플릿 팩 주입받았습니다. 코드 boilerplate 1개 파일 + README. 매트릭스 톤으로 한 줄. "💻 코다리, 강아지사주 (Korean Astrology AI Service) 템플릿 1개 파일 장착. 다음 작업에 자동 활용." 부가 설명 X.] → 산출물 sessions/2026-05-31T07-30/developer.md
 - [2026-05-31] 주입된 '강아지사주 (Korean Astrology AI Service)' 템플릿 팩의 파일 구조, README, 그리고 코드 보일러플레이트가 올바르게 적용되었는지 확인하고 내용을 요약하여 보고하라. → 산출물 sessions/2026-05-31T07-31/developer.md
 - [2026-05-31] 주입된 '강아지사주 (Korean Astrology AI Service)' 템플릿 팩을 사용하여 사용자가 요청한 강아지 사주 테스트를 실행하고 결과를 제공할 수 있도록 코드를 실행하고 테스트 환경을 준비하라. → 산출물 sessions/2026-05-31T07-33/developer.md
+- [2026-05-31] 강아지 사주 서비스의 코드를 Firebase Hosting에 배포할 수 있도록 필요한 빌드 및 배포 스크립트(예: Firebase CLI 설정, 빌드 프로세스)를 코다리(developer)가 확인하고 준비하도록 지시하라. → 산출물 sessions/2026-05-31T07-36/developer.md
